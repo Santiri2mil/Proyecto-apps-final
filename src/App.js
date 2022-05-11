@@ -1,5 +1,14 @@
 import logo from './logo.svg'; //hola
 import './App.css';
+import React from 'react';
+import {
+  StyleSheet,
+  Text,
+  ImageBackground,
+  TextInput,
+  ActivityIndicator,
+  View,
+} from 'react-native';
 
 function App() {
   return (
